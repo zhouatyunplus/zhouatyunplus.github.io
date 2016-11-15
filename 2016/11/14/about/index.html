@@ -5,6 +5,7 @@
     
     <title>about | 卷帘门</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <meta name="baidu-site-verification" content="5nQ0VnaWWX" />
     <meta name="description" content="about us">
 <meta property="og:type" content="article">
 <meta property="og:title" content="about">
@@ -73,39 +74,19 @@
             
             <div id="search-form-wrap">
 
-    <form class="search-form">
-        <input type="text" class="ins-search-input search-form-input" placeholder="Search" />
-        <button type="submit" class="search-form-submit"></button>
-    </form>
-    <div class="ins-search">
-    <div class="ins-search-mask"></div>
-    <div class="ins-search-container">
-        <div class="ins-input-wrapper">
-            <input type="text" class="ins-search-input" placeholder="Type something..." />
-            <span class="ins-close ins-selectable"><i class="fa fa-times-circle"></i></span>
-        </div>
-        <div class="ins-section-wrapper">
-            <div class="ins-section-container"></div>
-        </div>
-    </div>
-</div>
+    <form class="search-form" method="GET" action="https://www.baidu.com/s?">
+    <input name="wd" type="text" class="search-form-input" placeholder="Search" />
+    <button type="submit" class="search-form-submit"></button>
+</form>
 <script>
-(function (window) {
-    var INSIGHT_CONFIG = {
-        TRANSLATION: {
-            POSTS: 'Posts',
-            PAGES: 'Pages',
-            CATEGORIES: 'Categories',
-            TAGS: 'Tags',
-            UNTITLED: '(Untitled)',
-        },
-        ROOT_URL: '/',
-        CONTENT_URL: '/content.json',
-    };
-    window.INSIGHT_CONFIG = INSIGHT_CONFIG;
-})(window);
+(function ($) {
+    $('.search-form').on('submit', function (e) {
+        var keyword = $('.search-form-input[name="wd"]').val();
+        window.location = 'https://www.baidu.com/s?wd=site:www.xinyangjlm.com ' + keyword;
+        return false;
+    });
+})(jQuery);
 </script>
-<script src="/js/insight.js"></script>
 
 </div>
         </div>
@@ -122,9 +103,19 @@
                 
                 <td>
                     
-    <div class="search-form">
-        <input type="text" class="ins-search-input search-form-input" placeholder="Search" />
-    </div>
+    <form class="search-form" method="GET" action="https://www.baidu.com/s?">
+    <input name="wd" type="text" class="search-form-input" placeholder="Search" />
+    <button type="submit" class="search-form-submit"></button>
+</form>
+<script>
+(function ($) {
+    $('.search-form').on('submit', function (e) {
+        var keyword = $('.search-form-input[name="wd"]').val();
+        window.location = 'https://www.baidu.com/s?wd=site:www.xinyangjlm.com ' + keyword;
+        return false;
+    });
+})(jQuery);
+</script>
 
                 </td>
             </tr>
@@ -203,7 +194,7 @@
 
 </div>
 
-    <a data-url="http://www.xinyangjlm.com/2016/11/14/about/" data-id="civisdyb90000r4o8r2yknsfh" class="article-share-link"><i class="fa fa-share"></i>Share</a>
+    <a data-url="http://www.xinyangjlm.com/2016/11/14/about/" data-id="civiu7cpe0000xoo8js5df0oc" class="article-share-link"><i class="fa fa-share"></i>Share</a>
 <script>
     (function ($) {
         // Prevent duplicate binding
@@ -271,8 +262,6 @@
 
             
     
-        <a href="http://www.xinyangjlm.com/2016/11/14/about/#comments" class="article-comment-link disqus-comment-count" data-disqus-url="http://www.xinyangjlm.com/2016/11/14/about/">Comments</a>
-    
 
         </footer>
     </div>
@@ -295,12 +284,6 @@
 
     
     <section id="comments">
-    
-        
-    <div id="disqus_thread">
-        <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-    </div>
-
     
     </section>
 
@@ -340,23 +323,6 @@
 </footer>
 
         
-    
-    <script>
-    var disqus_config = function () {
-        
-            this.page.url = 'http://www.xinyangjlm.com/2016/11/14/about/';
-        
-        this.page.identifier = 'about';
-    };
-    (function() { 
-        var d = document, s = d.createElement('script');  
-        s.src = '//' + 'hexo-theme-icarus' + '.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-</script>
-
-
 
     
         <script src="/libs/lightgallery/js/lightgallery.min.js"></script>
