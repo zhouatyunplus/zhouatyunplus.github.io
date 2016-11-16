@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+    
+  <url>
+    <loc>http://www.xinyangjlm.com/about/</loc>
+    <lastmod>2016-11-14T09:20:54.749Z</lastmod>
+    <data>
+        <display>
+        <title>about</title>
+        <pubTime>2016-11-14T09:20:41.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.xinyangjlm.com/hello-world/</loc>
+    <lastmod>2016-11-14T00:44:50.869Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2016-11-14T00:44:50.869Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
