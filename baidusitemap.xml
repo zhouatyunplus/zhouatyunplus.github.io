@@ -3,70 +3,9 @@
 
 
     
-    
-  <url>
-    <loc>http://www.xinyangjlm.com/3.html</loc>
-    <lastmod>2017-02-08T08:40:27.881Z</lastmod>
-    <data>
-        <display>
-        <title>堆积门</title>
-        <pubTime>2016-11-19T16:00:00.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.xinyangjlm.com/8.html</loc>
-    <lastmod>2017-02-08T08:38:11.963Z</lastmod>
-    <data>
-        <display>
-        <title>水晶卷帘门</title>
-        <pubTime>2017-02-08T07:00:01.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.xinyangjlm.com/4.html</loc>
-    <lastmod>2017-02-08T08:37:54.642Z</lastmod>
-    <data>
-        <display>
-        <title>防火卷帘门</title>
-        <pubTime>2017-02-08T07:00:02.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.xinyangjlm.com/6.html</loc>
-    <lastmod>2017-02-08T08:36:22.506Z</lastmod>
-    <data>
-        <display>
-        <title>隔离栏</title>
-        <pubTime>2016-11-19T16:00:01.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
   <url>
     <loc>http://www.xinyangjlm.com/10.html</loc>
-    <lastmod>2017-02-08T08:33:11.085Z</lastmod>
+    <lastmod>2017-02-13T10:10:28.031Z</lastmod>
     <data>
         <display>
         <title>电动卷帘门</title>
@@ -74,6 +13,9 @@
         
          
            
+             
+              <breadCrumb title="product" url="http://www.xinyangjlm.com/categories/product/"/>
+          
         </display>
     </data>
     </url>
@@ -81,7 +23,7 @@
     
   <url>
     <loc>http://www.xinyangjlm.com/9.html</loc>
-    <lastmod>2017-02-08T07:15:01.122Z</lastmod>
+    <lastmod>2017-02-13T10:05:17.953Z</lastmod>
     <data>
         <display>
         <title>自动感应门</title>
@@ -89,6 +31,27 @@
         
          
            
+             
+              <breadCrumb title="product" url="http://www.xinyangjlm.com/categories/product/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.xinyangjlm.com/8.html</loc>
+    <lastmod>2017-02-13T10:05:14.513Z</lastmod>
+    <data>
+        <display>
+        <title>水晶卷帘门</title>
+        <pubTime>2017-02-08T07:00:01.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="product" url="http://www.xinyangjlm.com/categories/product/"/>
+          
         </display>
     </data>
     </url>
@@ -96,7 +59,7 @@
     
   <url>
     <loc>http://www.xinyangjlm.com/7.html</loc>
-    <lastmod>2017-02-08T07:05:28.113Z</lastmod>
+    <lastmod>2017-02-13T10:05:12.233Z</lastmod>
     <data>
         <display>
         <title>快速门</title>
@@ -104,6 +67,27 @@
         
          
            
+             
+              <breadCrumb title="product" url="http://www.xinyangjlm.com/categories/product/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.xinyangjlm.com/6.html</loc>
+    <lastmod>2017-02-13T10:05:09.882Z</lastmod>
+    <data>
+        <display>
+        <title>隔离栏</title>
+        <pubTime>2016-11-19T16:00:01.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="product" url="http://www.xinyangjlm.com/categories/product/"/>
+          
         </display>
     </data>
     </url>
@@ -111,7 +95,7 @@
     
   <url>
     <loc>http://www.xinyangjlm.com/5.html</loc>
-    <lastmod>2017-02-08T07:04:30.328Z</lastmod>
+    <lastmod>2017-02-13T10:05:07.562Z</lastmod>
     <data>
         <display>
         <title>钢结构车棚</title>
@@ -119,6 +103,45 @@
         
          
            
+             
+              <breadCrumb title="product" url="http://www.xinyangjlm.com/categories/product/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.xinyangjlm.com/4.html</loc>
+    <lastmod>2017-02-13T10:05:05.137Z</lastmod>
+    <data>
+        <display>
+        <title>防火卷帘门</title>
+        <pubTime>2017-02-08T07:00:02.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="product" url="http://www.xinyangjlm.com/categories/product/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.xinyangjlm.com/3.html</loc>
+    <lastmod>2017-02-13T10:05:02.098Z</lastmod>
+    <data>
+        <display>
+        <title>堆积门</title>
+        <pubTime>2016-11-19T16:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="product" url="http://www.xinyangjlm.com/categories/product/"/>
+          
         </display>
     </data>
     </url>
@@ -126,7 +149,7 @@
     
   <url>
     <loc>http://www.xinyangjlm.com/2.html</loc>
-    <lastmod>2017-02-08T07:04:20.690Z</lastmod>
+    <lastmod>2017-02-13T10:04:59.818Z</lastmod>
     <data>
         <display>
         <title>电动伸缩门</title>
@@ -134,6 +157,9 @@
         
          
            
+             
+              <breadCrumb title="product" url="http://www.xinyangjlm.com/categories/product/"/>
+          
         </display>
     </data>
     </url>
@@ -141,7 +167,7 @@
     
   <url>
     <loc>http://www.xinyangjlm.com/1.html</loc>
-    <lastmod>2017-02-08T07:04:13.012Z</lastmod>
+    <lastmod>2017-02-13T10:04:57.450Z</lastmod>
     <data>
         <display>
         <title>电动平移门</title>
@@ -149,9 +175,39 @@
         
          
            
+             
+              <breadCrumb title="product" url="http://www.xinyangjlm.com/categories/product/"/>
+          
         </display>
     </data>
     </url>
 
     
+  <url>
+    <loc>http://www.xinyangjlm.com/helps/index.html</loc>
+    <lastmod>2017-02-13T10:04:43.204Z</lastmod>
+    <data>
+        <display>
+        <title>关于卷帘门的使用帮助</title>
+        <pubTime>2017-02-13T09:58:58.000Z</pubTime>
+        
+         
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.xinyangjlm.com/aboutus/index.html</loc>
+    <lastmod>2017-02-13T09:47:15.351Z</lastmod>
+    <data>
+        <display>
+        <title>公司介绍</title>
+        <pubTime>2016-11-21T01:11:58.000Z</pubTime>
+        
+         
+        </display>
+    </data>
+    </url>
+
 </urlset>
